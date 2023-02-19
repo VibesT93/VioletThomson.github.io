@@ -1,0 +1,63 @@
+
+body {
+	background-color:DarkOliveGreen;
+	text-align:center;
+	color:DarkGrey;
+	font-family:Arial;
+}
+
+li {
+	text-align:left;
+}
+
+p {
+	margin-left: 25%;
+	text-align:left;
+}
+
+a:link {
+  color: Blue;
+}
+
+
+a:visited {
+  color: DarkSalmon;
+}
+
+
+a:hover {
+  color:violet;
+}
+
+
+a:active {
+  color:indigo;
+} 
+
+.flex-container {
+	display:flex;
+	justify-content: center;
+}
+
+@media(max-width: 500px){
+	.flex-container {
+		flex-direction: column;
+	}
+	body {
+		color:black;
+		background-color:violet;
+	}
+	a:visited {
+		color: blue;
+	}
+
+
+	a:hover {
+		color:white;
+	}
+
+
+	a:active {
+		color:green;
+	} 
+}
