@@ -1,11 +1,19 @@
 
-* {
+body {
 	background-color:#FFFBE9;
 	text-align:center;
 	color:black;
 	font-family:Arial;
 }
 
+head {
+	background-color: #dae2b6;
+}
+
+nav {
+	background-color:#CCD6A6 ;
+
+}
 li {
 	text-align:left;
 }
