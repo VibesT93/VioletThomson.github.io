@@ -7,11 +7,11 @@ body {
 }
 
 head {
-	background-color: #dae2b6;
+	background-color: #dae2b6 !important;
 }
 
 #navbar {
-	background-color:#9fad68 ;
+	background-color:#9fad68 !important;
 
 }
 li {
