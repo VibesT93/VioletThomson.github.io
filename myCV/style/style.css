@@ -14,6 +14,11 @@ body {
 	background-color:#9fad68 ;
 
 }
+
+.col-sm {
+	justify-content: space-between;
+
+}
 li {
 	text-align:left;
 }
