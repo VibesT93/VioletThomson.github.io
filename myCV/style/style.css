@@ -1,21 +1,23 @@
 
 body {
-	background-color:#FFFBE9;
+	background-color:#CCD6A6;
 	text-align:center;
 	color:black;
 	font-family:Arial;
 }
 
 #banner {
-	background-color: #CCD6A6;
+	background-color: #DAE2B6;
 	width: 100%;
 }
 
 #navbar {
-	background-color:#9fad68 ;
+	background-color:#FFFBE9 ;
 
 }
-
+ h2{
+	justify-content: center;
+ }
 .col-sm {
 	justify-content: space-between;
 	background-color: #F4EAD5;
